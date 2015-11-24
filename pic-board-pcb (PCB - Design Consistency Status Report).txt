@@ -1,0 +1,19 @@
+Design Consistency Status Report
+--------------------------------
+
+Report File:        D:\Tahmid\PIC32-breakout\pic-board-pcb (PCB - Design Consistency Status Report).txt
+Report Written:     Tuesday, November 24, 2015
+Project Path:       D:\Tahmid\PIC32-breakout\new-board-pic32.prj
+Design Path:        D:\Tahmid\PIC32-breakout\pic-board-pcb.pcb
+Design Title:       
+Created:            11/24/2015 12:39:54 AM
+Last Saved:         11/24/2015 1:07:41 AM
+Editing Time:       20 min
+Units:              mil (precision 0)
+
+
+Checking integrity of Schematic and Pcb designs in project "new-board-pic32"
+============================================================================
+
+
+End Of Report.

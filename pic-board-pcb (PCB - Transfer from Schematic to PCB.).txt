@@ -1,0 +1,16 @@
+Transfer from Schematic to PCB.
+-------------------------------
+
+Report File:        D:\Tahmid\PIC32-breakout\pic-board-pcb (PCB - Transfer from Schematic to PCB.).txt
+Report Written:     Tuesday, November 24, 2015
+Design Path:        D:\Tahmid\PIC32-breakout\pic-board-pcb.pcb
+Design Title:       
+Created:            11/24/2015 12:39:54 AM
+Last Saved:         11/24/2015 12:40:52 AM
+Editing Time:       0 min
+Units:              mil (precision 0)
+
+Could not load component "C1206-POL" package "SM" into target design.
+Could not add "C1" component "C1206-POL" package "SM" to target design.
+
+End Of Report.

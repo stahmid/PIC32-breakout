@@ -3,7 +3,7 @@ Arduino Uno
 BZX84-A||#SM=3||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
 C2M0160120D||#MISC=3||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
 C1206||#SM=2||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
-C1206-POL||#SM=2||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+C1206-POL||#SM=0||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
 C1210||#SM=2||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
 C1210-POL||#SM=2||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
 EET-UQ||#USER=2||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
@@ -12,6 +12,7 @@ HCPL2631||#DIL=8||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Di
 IXDD609PI||#DIL=8||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
 IXDD609SIA||#SOL=8||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
 KAT1108E||#MISC=10||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+Keypad_3x4||#USER=7||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
 LDR
 M57182N-315||#USER=6||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
 MGJ2D152005SC||#MISC=5||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=

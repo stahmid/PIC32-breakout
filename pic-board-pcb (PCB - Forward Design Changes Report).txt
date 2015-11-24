@@ -1,0 +1,23 @@
+Forward Design Changes Report
+-----------------------------
+
+Report File:        D:\Tahmid\PIC32-breakout\pic-board-pcb (PCB - Forward Design Changes Report).txt
+Report Written:     Tuesday, November 24, 2015
+Project Path:       D:\Tahmid\PIC32-breakout\new-board-pic32.prj
+Design Path:        D:\Tahmid\PIC32-breakout\pic-board-pcb.pcb
+Design Title:       
+Created:            11/24/2015 12:39:54 AM
+Last Saved:         11/24/2015 1:07:41 AM
+Editing Time:       20 min
+Units:              mil (precision 0)
+
+Disconnected pin "PL6-1" from net "VDD".
+
+Connected pin "PL6-1" to net "GND".
+
+Net TFT DC _ PGD renamed to TFT DC _ PGD _ RB0
+Net TFT CS _ PGC renamed to TFT CS _ PGC _ RB1
+Net TFT RST renamed to TFT RST _ RB2
+
+
+End Of Report.
